@@ -1,0 +1,35 @@
+#logo{
+	}
+
+	body{
+		background-image: url('../../static/images/background.jpg');
+		opacity:1.0;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	#total-orders{
+        background-color: #4cc7bc;
+	}
+
+	#heading_action{
+		display: flex;
+	    justify-content: space-between;
+	}
+	#orders-delivered{
+		background-color: #b67acc;
+	}
+
+	#orders-pending{
+		background-color: #d17c7c;
+	}
+
+	#payment-pending{
+		background-color: #d1ca7c;
+	}
+
+	#invwrapper {
+		margin-top: 2rem;
+	}
+
+	
